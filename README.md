@@ -1,3 +1,3 @@
 # FCCProjects
-Free Code Camp Projects for freecodecamp.org
+freeCodeCamp.org projects 
 1. Tribute Page
