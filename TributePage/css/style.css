@@ -1,6 +1,8 @@
 body {
   font-family: 'Lora', serif;
   margin: 0px;
+  background-color: black;
+  color: white;
 }
 
 header, footer[role="contentinfo"]{
@@ -18,17 +20,17 @@ footer[role="contentinfo"]{
 h1{
   font-family: 'Montserrat', sans-serif;
   font-size: 4.25em;
-  color: #FFFFFF;
 }
 
 h2{
-  font-size: 1.875em;
+  font-size: 2em;
+  color: #FFFFFF;
 }
 
 header p{
   font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 0.875em;
-  color: #c4c4c4;
+  font-size: 1.00em;
+  color: #FFFFFF;
 }
 
 header p:nth-child(2){
