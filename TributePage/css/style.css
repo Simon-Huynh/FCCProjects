@@ -1,0 +1,41 @@
+body {
+  font-family: 'Lora', serif;
+  margin: 0px;
+}
+
+header, footer[role="contentinfo"]{
+  text-align: center;
+  background: url('../images/dark_embroidery.png') repeat;
+}
+
+footer[role="contentinfo"]{
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+/*Main Title*/
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4.25em;
+  color: #FFFFFF;
+}
+
+h2{
+  font-size: 1.875em;
+}
+
+header p{
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 0.875em;
+  color: #c4c4c4;
+}
+
+header p:nth-child(2){
+    font-size: 1.25em;
+}
+
+/*Optimize line lengths for readability*/
+main .container{
+  max-width: 540px;
+}
