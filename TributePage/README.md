@@ -1,5 +1,5 @@
 # TributePage
-A tribute page. Part of freeCodeCamp's Basic Front End Development Projects.
+A tribute page. Part of freeCodeCamp's Basic Front End Development Projects. <br />
 [https://simon-huynh.github.io/FCCProjects/TributePage/](https://simon-huynh.github.io/FCCProjects/TributePage/)
 ## User Stories:
 * I can view a tribute page with image and text.
